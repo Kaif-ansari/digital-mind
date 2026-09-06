@@ -1,0 +1,13 @@
+{
+  "name": "50-micro-saas-sales-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium ebook sales site with payment verification and protected download.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,4 @@
+.env
+data/*.json
+private/*.pdf
+node_modules/
